@@ -7,7 +7,7 @@ This project demonstrates a microservices architecture using Spring Cloud compon
 - Goodbye Service as another sample microservice
 
 ## Prerequisites
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.6 or higher
 
 ## Project Structure
